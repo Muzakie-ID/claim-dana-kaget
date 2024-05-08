@@ -6,6 +6,6 @@
  * use @id_chat_bot (https://t.me/id_chat_bot) in telegram. DONT FORGET TO START THE BOT.   
  */
 $config = [
-    'telegram_bot_token' => '6366552650:AAGFoS5lWAPNmvquTXtiiVw-om2-S3B3iZU',
-    'chat_id'            => 5793663893
+    'telegram_bot_token' => '6689125451:AAE2ffxmDbHRadPd8zeyiuJHH7reas9VUZM',
+    'chat_id'            => 5061427565
 ];
